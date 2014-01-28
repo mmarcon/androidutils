@@ -41,5 +41,4 @@ before_install:
   - mvn install -N --quiet
   - cd -
 
-
 #Thank you, aerogear :)
