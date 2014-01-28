@@ -12,7 +12,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <platform.version>4.3_r2</platform.version>
         <android.plugin.version>3.7.0</android.plugin.version>
-        <dagger.version>1.1.0</dagger.version>
     </properties>
 
     <dependencies>
@@ -62,7 +61,7 @@
                 <extensions>true</extensions>
                 <configuration>
                     <sdk>
-                        <platform>18</platform>
+                        <platform>19</platform>
                     </sdk>
                     <undeployBeforeDeploy>true</undeployBeforeDeploy>
                 </configuration>
